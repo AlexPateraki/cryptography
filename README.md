@@ -1,6 +1,6 @@
 # cryptography
 Implementing an algorithm for solving constraint satisfaction problems, and use it to try finding solutions for the following cryptarithmetic puzzles:
-I. "TO + TO = FOR" in the hexadecimal numeral system.
+I. "TO + TO = FOR" in the hexadecimal numeral system.  
 II. "TOO + TOO = FOR" also in the hexadecimal numeral system.
 III. "WON + WON = TOO" in the decimal numeral system.
 
